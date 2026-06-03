@@ -1,0 +1,16 @@
+Dataset,Strategy,F1_mean,F1_std,PR_AUC_mean,PR_AUC_std
+UCI_EEG,none,0.0307,0.0147,0.4728,0.0152
+UCI_EEG,class_weight,0.3462,0.0128,0.4665,0.014
+UCI_EEG,smote,0.3343,0.0085,0.453,0.0073
+UCI_EEG,undersample,0.3308,0.0207,0.456,0.0268
+UCI_EEG,adasyn,0.3156,0.0148,0.4368,0.0147
+BEED,none,0.8853,0.0012,0.7655,0.0167
+BEED,class_weight,0.7192,0.0136,0.811,0.0153
+BEED,smote,0.7161,0.0127,0.8109,0.0169
+BEED,undersample,0.7047,0.0165,0.8157,0.0146
+BEED,adasyn,0.6753,0.0171,0.8124,0.0132
+Brainwave,none,0.8988,0.012,0.8281,0.0298
+Brainwave,class_weight,0.8905,0.0061,0.8274,0.0321
+Brainwave,smote,0.881,0.0083,0.8263,0.0365
+Brainwave,undersample,0.8871,0.0075,0.8189,0.0263
+Brainwave,adasyn,0.882,0.0028,0.8285,0.0412

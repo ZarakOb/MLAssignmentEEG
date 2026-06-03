@@ -1,0 +1,4 @@
+Regularizer,Sparsity_%
+L1 (Lasso),5.0
+L2 (Ridge),0.0
+Elastic Net,0.0

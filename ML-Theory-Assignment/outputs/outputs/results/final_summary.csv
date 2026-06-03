@@ -1,0 +1,4 @@
+Dataset,Best_Pipeline,Pipeline_PR_AUC,Best_Regularizer,Regularizer_PR_AUC,Best_Imbalance,Imbalance_PR_AUC
+UCI_EEG,Pipeline B,0.9539,L2 (Ridge),0.49419365922128844,undersample,0.462
+BEED,Pipeline B,1.0,L1 (Lasso),0.7655887571305054,undersample,0.8157
+Brainwave,Pipeline A,0.8287,L2 (Ridge),0.85025794211458,smote,0.8283

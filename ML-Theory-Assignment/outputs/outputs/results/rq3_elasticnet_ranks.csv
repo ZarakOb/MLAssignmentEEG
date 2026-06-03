@@ -1,0 +1,4 @@
+Dataset,Elastic Net,L1 (Lasso),L2 (Ridge)
+BEED,2,1,3
+Brainwave,3,2,1
+UCI_EEG,3,2,1
